@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/epic4/static/css/main.eb7963ec.css",
+    "main.js": "/epic4/static/js/main.24688d43.js",
+    "static/media/slider1.svg": "/epic4/static/media/slider1.27318947dac5357bc6ab57e7928726cb.svg",
+    "index.html": "/epic4/index.html",
+    "main.eb7963ec.css.map": "/epic4/static/css/main.eb7963ec.css.map",
+    "main.24688d43.js.map": "/epic4/static/js/main.24688d43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb7963ec.css",
+    "static/js/main.24688d43.js"
+  ]
+}
