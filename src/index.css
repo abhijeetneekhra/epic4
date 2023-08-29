@@ -32,21 +32,6 @@ body {
   margin-bottom: 1.5rem !important;
 }
 
-*,
-::after,
-::before {
-  box-sizing: border-box !important;
-}
-
-.btn-block {
-  display: block !important;
-}
-
 .card {
   border-radius: 0.55rem !important;
-}
-
-.btn {
-  display: block !important;
-  padding: 0.375rem 0.75rem !important;
 }
