@@ -11,7 +11,7 @@ const Login = () => {
           <div className="auth_left">
             <div className="card">
               <div className="text-center mb-2">
-                <a className="header-brand" href="index.html">
+                <a className="header-brand" href="/index">
                   <i className="fe fe-command brand-logo"></i>
                 </a>
               </div>
@@ -67,7 +67,7 @@ const Login = () => {
                 </div>
               </div>
               <div className="text-center text-muted">
-                Don't have account yet? <a href="register.html">Sign up</a>
+                Don't have account yet? <a href="/register">Sign up</a>
               </div>
             </div>
           </div>

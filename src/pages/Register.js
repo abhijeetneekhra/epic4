@@ -10,7 +10,7 @@ const Register = () => {
         <div class="auth_left">
           <div class="card">
             <div class="text-center mb-5">
-              <a class="header-brand" href="index.html">
+              <a class="header-brand" href="/index">
                 <i class="fe fe-command brand-logo"></i>
               </a>
             </div>
@@ -55,7 +55,7 @@ const Register = () => {
               </div>
             </div>
             <div class="text-center text-muted">
-              Already have account? <a href="login.html">Sign in</a>
+              Already have account? <a href="/">Sign in</a>
             </div>
           </div>
         </div>

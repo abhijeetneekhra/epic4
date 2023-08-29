@@ -10,7 +10,7 @@ const ForgotPassword = () => {
         <div class="auth_left">
           <div class="card">
             <div class="text-center mb-5">
-              <a class="header-brand" href="index.html">
+              <a class="header-brand" href="/index">
                 <i class="fe fe-command brand-logo"></i>
               </a>
             </div>
