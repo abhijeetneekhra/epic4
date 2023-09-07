@@ -36,10 +36,7 @@ const Login = () => {
                 <div className="form-group">
                   <label className="form-label">
                     Password
-                    <a
-                      href="forgot-password.html"
-                      className="float-right small"
-                    >
+                    <a href="/forgot-password" className="float-right small">
                       I forgot password
                     </a>
                   </label>
